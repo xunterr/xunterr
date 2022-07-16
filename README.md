@@ -5,10 +5,10 @@
 <h1>Hi</h1>
 
 
-<h3>My name is Artem</h3>
+<h3>I am Artem</h3>
 
 
-- :telescope: I’m learning to be a web infrastructure dev.
+- :telescope: I’m learning to be a backend dev.
 
 - :seedling: Contributing an interesting projects to learn more.
 
