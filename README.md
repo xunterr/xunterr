@@ -14,8 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunterr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
+### :mailbox: How to reach me: 
 
-:mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Artem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-okhotnychenko-33621a218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Artem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-okhotnychenko-33621a218/)
+
+---
 
  ![Snake animation](https://github.com/xunterr/xunterr/blob/output/github-contribution-grid-snake.svg)
