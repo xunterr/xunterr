@@ -17,3 +17,5 @@
 ---
 
 :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Artem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artem-okhotnychenko-33621a218/)
+
+ ![Snake animation](https://github.com/xunterr/xunterr/blob/output/github-contribution-grid-snake.svg)
