@@ -12,7 +12,9 @@
 
 ### :fire: Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunterr&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xunterr&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![xunterr's GitHub stats](https://github-readme-stats.vercel.app/api?username=xunterr&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true)
 
 ### :mailbox: How to reach me: 
 
